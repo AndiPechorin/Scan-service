@@ -2,7 +2,7 @@
   "name": "scan_service",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KivaVlad.github.io/Scan-service",
+  "homepage": "https://github.com/AndiPechorin/Scan-service",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
