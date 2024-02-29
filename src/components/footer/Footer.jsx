@@ -13,7 +13,7 @@ const Footer = () => {
                 <p>г. Москва, Цветной б-р, 40
                 +7 495 771 21 11
                 info@skan.ru</p>
-                <p>by <a target="blank" href='https://github.com/KivaVlad'>@kivavlad</a> 2023</p>
+                <p>by <a target="blank" href='https://github.com/AndiPechorin/'>@AndiPechorin</a> 2024</p>
                 </div>
             </div>
         </div>
