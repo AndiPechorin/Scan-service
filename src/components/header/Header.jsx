@@ -41,7 +41,7 @@ const Header = (props) => {
 
                       <div className="header_nav_user_active">
                         <div className="header_user_active_container">
-                          <div className="header_user_name">Владислав К. </div>
+                          <div className="header_user_name">Андрей П. </div>
                           <button 
                             onClick={() => {
                               handleLogOutBtn();
@@ -74,7 +74,7 @@ const Header = (props) => {
                   </div>
                   <div className="header_user_active">
                     <div className="header_user_active_container">
-                      <div className="header_user_name">Владислав К. </div>
+                      <div className="header_user_name">Андрей П. </div>
                       <button 
                         onClick={handleLogOutBtn}
                         className="header_user_buttonLogOut"
